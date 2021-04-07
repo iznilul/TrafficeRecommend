@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98c4a537-8bde-4a56-aceb-0aab4b032047" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/AttractionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/AttractionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/EntertainmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/EntertainmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/HospitalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/HospitalController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/HotelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/HotelController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/PlaceBaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/PlaceBaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/RestaurantController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/RestaurantController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/TrainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/TrainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/TrainStationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/controller/TrainStationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/Attraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/Entertainment.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/Entertainment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/Hospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/JourneysDealed.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/JourneysDealed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/PlaceBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/PlaceBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/TrainStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/dto/TrainStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/entity/QueryIndustry.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/entity/QueryIndustry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/entity/QueryIndustryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/entity/QueryIndustryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/entity/QueryTrainStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/entity/QueryTrainStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/entity/ReturnRecommendRoute.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/entity/ReturnRecommendRoute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/entity/TrainQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/entity/TrainQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/AdminMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/AdminMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/AdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/AdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/AttractionMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/AttractionMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/AttractionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/AttractionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/EntertainmentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/EntertainmentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/EntertainmentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/EntertainmentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/HospitalMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/HospitalMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/HospitalMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/HospitalMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/HotelMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/HotelMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/HotelMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/HotelMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/IndirectJourneysDealedMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/IndirectJourneysDealedMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/IndirectJourneysDealedMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/IndirectJourneysDealedMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/JourneysDealedMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/JourneysDealedMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/JourneysDealedMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/JourneysDealedMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/RestaurantMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/RestaurantMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/RestaurantMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/RestaurantMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/TrainStationMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/TrainStationMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/TrainStationMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/mapper/TrainStationMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/response/AjaxResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/response/AjaxResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/response/MsgType.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/response/MsgType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/response/ResponseTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/response/ResponseTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/AttractionServie.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/AttractionServie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/EntertainmentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/EntertainmentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/HospitalService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/HospitalService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/HotelService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/HotelService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/IndirectJourneysDealedService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/IndirectJourneysDealedService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/JourneysDealedService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/JourneysDealedService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/RestaurantService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/RestaurantService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/TrainStationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/TrainStationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/AdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/AttractionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/AttractionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/EntertainmentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/EntertainmentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/HospitalServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/HospitalServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/HotelServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/HotelServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/IndirectJourneysDealedServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/IndirectJourneysDealedServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/JourneysDealedServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/JourneysDealedServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/RestaurantServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/RestaurantServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/TrainStationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-admin/src/main/java/slg/trbackend/admin/service/impl/TrainStationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/base/CheckResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/base/CheckResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/base/GlobalConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/base/GlobalConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/base/ResultKit.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/base/ResultKit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/base/TokenConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/base/TokenConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/enums/GlobalCodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/enums/GlobalCodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/ApplicationContextProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/ApplicationContextProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/CglibBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/CglibBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/DateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/MainUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/MainUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/RedisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/ResultCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-common/src/main/java/slg/trbackend/common/utils/ResultCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/Interceptor/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/Interceptor/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/Interceptor/MainInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/Interceptor/MainInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/WebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/WebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/config/DruidConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/config/DruidConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/config/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-web/src/main/java/slg/trbackend/web/config/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-web/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-web/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend-web/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TR_backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TR_backend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_map.sql" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven_Repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gauXRb7epNqAMtRq0iqBCAen1c" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="tr_backend-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slg.trbackend.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="slg.trbackend.web.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WebApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98c4a537-8bde-4a56-aceb-0aab4b032047" name="Default Changelist" comment="" />
+      <created>1598365063742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598365063742</updated>
+      <workItem from="1598365067679" duration="1311000" />
+      <workItem from="1598416921942" duration="1185000" />
+      <workItem from="1598424724254" duration="231000" />
+      <workItem from="1599638772224" duration="1189000" />
+      <workItem from="1599641734442" duration="586000" />
+      <workItem from="1601008527021" duration="5505000" />
+      <workItem from="1601017349958" duration="2694000" />
+      <workItem from="1601035663697" duration="127000" />
+      <workItem from="1616344361370" duration="1050000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

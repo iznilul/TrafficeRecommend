@@ -1,0 +1,12 @@
+
+>
+java:S1148W"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÌóÊ¤ÿÿÿÿÿ8ó­Ş¢».
+—
+java:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨ûşñ
+L
+java:S3740M"/Provide the parametrized type for this generic.(®èä¡8ŒÉÊ¢».
+L
+java:S3740&"/Provide the parametrized type for this generic.(î¯½8ŒÉÊ¢».
+—
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ã’

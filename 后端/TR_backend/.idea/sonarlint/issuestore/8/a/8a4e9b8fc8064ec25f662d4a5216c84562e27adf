@@ -1,0 +1,12 @@
+
+	java:S116!"gRename this field "ArriveStationNameLocationLat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ψ¬Ήϊÿÿÿÿ
+k	java:S116"VRename this field "JourneyName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΆΙΥ
+	java:S116"jRename this field "DepartureStationNameLocationLng" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(κ”Δ
+G
+java:S1128"*Remove this unused import 'java.sql.Date'.(Ωΐ½Κ8·Ζ“Ύ.
+„	java:S116"jRename this field "DepartureStationNameLocationLat" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Μ”¥Ήÿÿÿÿÿ
+{	java:S116$"gRename this field "ArriveStationNameLocationLng" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ΩµC
+v	java:S116"\Rename this field "ArriveStationName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(φαϊÿÿÿÿ
+w	java:S116*"VRename this field "VehicleName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΣηΖωÿÿÿÿ8ÿψ’Ύ.
+y	java:S116"_Rename this field "DepartureStationName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿήβϊÿÿÿÿ
+q	java:S1160"URename this field "ArriveTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ϊÿ®8ωÿ“Ύ.

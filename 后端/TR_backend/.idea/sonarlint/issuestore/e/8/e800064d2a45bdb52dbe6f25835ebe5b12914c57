@@ -1,0 +1,67 @@
+
+[	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(ÄÊĞ8
+\	java:S112¹"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ½”
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+>
+java:S1148w"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148‹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148Ù"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148ì"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148Â"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148Ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148Ş"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148ı"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148©"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148·"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148Æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148Ø"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148ç"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148û"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148‹"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?
+java:S1148›"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+t
+java:S1488‰"]Immediately return this expression instead of assigning it to the temporary variable "count".(ıÿî¢
+z
+java:S1488˜"^Immediately return this expression instead of assigning it to the temporary variable "remove".(²ĞÉàıÿÿÿÿ
+j
+java:S1128"TRemove this unused import 'org.springframework.data.redis.core.StringRedisTemplate'.(Á•½
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1168Ã"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1168"+Return an empty collection instead of null.(¥¹ï

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tr-backend-admin" />
+        <module name="tr_backend-web" />
+        <module name="TR_backend-admin" />
+        <module name="TR_backend-web" />
+        <module name="TR_backend-common" />
+        <module name="tr_backend-common" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="TR_backend-admin" options="-parameters" />
+      <module name="TR_backend-common" options="-parameters" />
+      <module name="TR_backend-web" options="-parameters" />
+      <module name="tr-backend-admin" options="-parameters" />
+      <module name="tr_backend-common" options="-parameters" />
+      <module name="tr_backend-web" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+
+q
+java:S32522"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(©ÇÛàýÿÿÿÿ8¶Íû£».
+0
+java:S3751"Make this method "public".(Ñßˆ«
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñßˆ«
+q
+java:S3252!"OUse static access with "com.github.pagehelper.page.PageMethod" for "startPage".(©ÇÛàýÿÿÿÿ8•Ùð£».
+b	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª  >
+/
+java:S3751/"Make this method "public".(ª  >
